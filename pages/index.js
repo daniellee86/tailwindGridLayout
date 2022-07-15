@@ -21,14 +21,14 @@ export default function Home() {
           Mollit pariatur nisi enim minim occaecat dolor mollit 
           sunt fugiat.
         </p>
-        <div className='  bg-blue-500 sm:h-auto sm:square'> <img className='h-full object-cover' src='1.jpg' alt=''/> </div>
-        <div className='  bg-blue-500 sm:h-auto sm:square'> <img className='h-full object-cover' src='2.jpg' alt=''/> </div>
-        <div className='  bg-pink-500 sm:h-auto sm:square'> <img className='h-full object-cover' src='3.jpg' alt=''/> </div>
-        <div className='  bg-blue-500 sm:h-auto sm:square md:col-start-2'> <img className='h-full object-cover' src='8.jpg' alt=''/></div>
-        <div className='  bg-pink-500 sm:h-auto sm:square'> <img className='h-full object-cover' src='4.jpg' alt=''/> </div>
-        <div className='  bg-blue-500 sm:h-auto sm:square'> <img className='h-full object-cover' src='5.jpg' alt=''/> </div>
-        <div className='  bg-blue-500 sm:h-auto sm:square'> <img className='h-full object-cover' src='6.jpg' alt=''/> </div>
-        <div className='  bg-pink-500 sm:h-auto sm:square'> <img className='h-full object-cover' src='7.jpg' alt=''/></div>
+        <div className=' sm:h-auto sm:square'> <img className='h-full object-cover' src='1.jpg' alt=''/> </div>
+        <div className=' sm:h-auto sm:square'> <img className='h-full object-cover' src='2.jpg' alt=''/> </div>
+        <div className=' sm:h-auto sm:square'> <img className='h-full object-cover' src='3.jpg' alt=''/> </div>
+        <div className=' sm:h-auto sm:square md:col-start-2'> <img className='h-full object-cover' src='8.jpg' alt=''/></div>
+        <div className=' sm:h-auto sm:square'> <img className='h-full object-cover' src='4.jpg' alt=''/> </div>
+        <div className=' sm:h-auto sm:square'> <img className='h-full object-cover' src='5.jpg' alt=''/> </div>
+        <div className=' sm:h-auto sm:square'> <img className='h-full object-cover' src='6.jpg' alt=''/> </div>
+        <div className=' sm:h-auto sm:square'> <img className='h-full object-cover' src='7.jpg' alt=''/></div>
         <p className='self-center md:text-lg md:col-span-2 md:text-center md:px-4'>Aliquip ipsum mollit occaecat occaecat voluptate 
         aliquip ad laboris irure Lorem mollit voluptate non.
         </p>
